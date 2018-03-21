@@ -1,0 +1,10 @@
+C:\sources\private\mongo-for-dot-net\bin\Debug\netcoreapp2.0\mongo-for-dot-net.deps.json
+C:\sources\private\mongo-for-dot-net\bin\Debug\netcoreapp2.0\mongo-for-dot-net.runtimeconfig.json
+C:\sources\private\mongo-for-dot-net\bin\Debug\netcoreapp2.0\mongo-for-dot-net.runtimeconfig.dev.json
+C:\sources\private\mongo-for-dot-net\bin\Debug\netcoreapp2.0\mongo-for-dot-net.dll
+C:\sources\private\mongo-for-dot-net\bin\Debug\netcoreapp2.0\mongo-for-dot-net.pdb
+C:\sources\private\mongo-for-dot-net\obj\Debug\netcoreapp2.0\mongo-for-dot-net.csproj.CoreCompileInputs.cache
+C:\sources\private\mongo-for-dot-net\obj\Debug\netcoreapp2.0\mongo-for-dot-net.AssemblyInfoInputs.cache
+C:\sources\private\mongo-for-dot-net\obj\Debug\netcoreapp2.0\mongo-for-dot-net.AssemblyInfo.cs
+C:\sources\private\mongo-for-dot-net\obj\Debug\netcoreapp2.0\mongo-for-dot-net.dll
+C:\sources\private\mongo-for-dot-net\obj\Debug\netcoreapp2.0\mongo-for-dot-net.pdb
